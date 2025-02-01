@@ -1,0 +1,60 @@
+.techniques {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: white;
+  }
+  
+  .techniques__title {
+    margin-top: 100px;
+    margin-bottom: 20px;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 1.15;
+    color: #000;
+  }
+  
+  .techniques__subtitle {
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 34px;
+    color: #000;
+  }
+  
+  .techniques__cards {
+    display: grid; 
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 0px 100px; 
+    width: 920px; 
+    margin: 0 auto; 
+  }
+  
+  
+  .techniques__item {
+    margin-top: 60px;
+    text-align: center;
+  }
+  
+  .techniques__item-title {
+    margin-top: 43px;
+    margin-bottom: 16px; 
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.15;
+    color: #000;
+  }
+  
+  .techniques__item-description {
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 23px;
+    color: #000;
+  }
+  
+  .techniques__image {
+    width: 160px;
+    height: 160px;
+    margin: auto 40px;
+    display: block;
+    border-radius: 50%;
+  }
