@@ -1,13 +1,13 @@
-@import '/blocks/header/header.css';
-@import '/blocks/techniques/techniques.css';
-@import '/blocks/video/video.css';
-@import '/blocks/feynman/feynman.css';
-@import '/blocks/digits/digits.css';
-@import '/blocks/kaufman/kaufman.css';
-@import '/blocks/resources/resources.css';
-@import '/blocks/footer/footer.css';
-@import '/blocks/description/description.css';
-@import '/blocks/khan/khan.css';
+@import '../blocks/header/header.css';
+@import '../blocks/techniques/techniques.css';
+@import '../blocks/video/video.css';
+@import '../blocks/feynman/feynman.css';
+@import '../blocks/digits/digits.css';
+@import '../blocks/kaufman/kaufman.css';
+@import '../blocks/resources/resources.css';
+@import '../blocks/footer/footer.css';
+@import '../blocks/description/description.css';
+@import '../blocks/khan/khan.css';
 
 .page {
   min-width: 1100px;
